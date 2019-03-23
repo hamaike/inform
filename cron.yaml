@@ -1,0 +1,5 @@
+cron:
+- description: inform wether
+  url: /
+  schedule: every day 08:30
+  timezone: Asia/Tokyo
